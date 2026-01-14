@@ -1,0 +1,9 @@
+{
+  "name": "RewardCat - Play & Earn",
+  "description": "A gamified earning platform where users play mini-games like Pindino to earn MeowCoins, track their progress, and redeem rewards. Featuring AI-powered daily challenges and a vibrant cat-themed UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
